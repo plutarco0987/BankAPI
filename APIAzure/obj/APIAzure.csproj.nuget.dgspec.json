@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plutarco.Moya\\source\\repos\\APIAzure\\APIAzure\\APIAzure.csproj": {}
+    "C:\\Users\\Plutarco.Moya\\source\\BankAPI\\APIAzure\\APIAzure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plutarco.Moya\\source\\repos\\APIAzure\\APIAzure\\APIAzure.csproj": {
+    "C:\\Users\\Plutarco.Moya\\source\\BankAPI\\APIAzure\\APIAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plutarco.Moya\\source\\repos\\APIAzure\\APIAzure\\APIAzure.csproj",
+        "projectUniqueName": "C:\\Users\\Plutarco.Moya\\source\\BankAPI\\APIAzure\\APIAzure.csproj",
         "projectName": "APIAzure",
-        "projectPath": "C:\\Users\\Plutarco.Moya\\source\\repos\\APIAzure\\APIAzure\\APIAzure.csproj",
+        "projectPath": "C:\\Users\\Plutarco.Moya\\source\\BankAPI\\APIAzure\\APIAzure.csproj",
         "packagesPath": "C:\\Users\\Plutarco.Moya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plutarco.Moya\\source\\repos\\APIAzure\\APIAzure\\obj\\",
+        "outputPath": "C:\\Users\\Plutarco.Moya\\source\\BankAPI\\APIAzure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Plutarco.Moya\\AppData\\Roaming\\NuGet\\NuGet.Config",
